@@ -12,6 +12,7 @@ Step 1: Install Python 3.7
 Step 2: Open command prompt and type: pip3 install scdl
 Step 3: Make sure you have ffmpeg installed (this is argubly the most challenging step) but I used https://www.youtube.com/watch?v=IECI72XEox0&t=360s by TroubleChute. 
 Step 4: Depends on what artists, tracks, playlists you want to download, use these. 
+If scdl command is not found, use: python3 -m scdl.scdl -l <link>
 
 # Download track & repost of the user QUANTA
 scdl -l https://soundcloud.com/quanta-uk -a
