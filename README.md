@@ -1,4 +1,5 @@
-Contributor: @flyingrub/scdl
+### **Contributors:** 
+@flyingrub/scdl
 https://github.com/flyingrub/scdl/tree/master
 Installation instructions: https://github.com/flyingrub/scdl/wiki/Installation-Instruction
 
@@ -7,6 +8,7 @@ https://www.youtube.com/watch?v=6ebIKw4OnEI&t=1s
 
 Nguyen Tien Dat
 
+### **About:**
 Hi everyone! I was tasked by my supervisor to download a bunch of audiobooks from https://radiotoday.net/audio-book as they need them for Viet-ASR (Automatic Speech Recognition) work. At first, I started manually downloading the mp3 files like an idiot. I’m glad I stopped after downloading a playlist and asked him how many he needed. He suggested using a crawler to make it more efficient and faster. So I searched around and found a scdl GitHub code by flyingrub. I followed all the instructions and they worked perfectly on PyCharm. When I started downloading however, mp3 files are downloaded but when I opened them, a weird looking text file came up despite it being mp3 format. Since it did not work for me, I went and watch a Youtube video by Mike Lucarelli where he only used the command prompt. 
 Step 1: Install Python 3.7 
 Step 2: Open command prompt and type: pip3 install scdl
