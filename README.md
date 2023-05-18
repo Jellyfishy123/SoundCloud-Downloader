@@ -1,7 +1,7 @@
 ### **Contributors:** 
 @flyingrub/scdl
 https://github.com/flyingrub/scdl/tree/master
-Installation instructions: https://github.com/flyingrub/scdl/wiki/Installation-Instruction
+<br> Installation instructions: https://github.com/flyingrub/scdl/wiki/Installation-Instruction
 
 Mike Lucarelli
 https://www.youtube.com/watch?v=6ebIKw4OnEI&t=1s
